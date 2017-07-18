@@ -5,6 +5,9 @@ DESCRIPTION: Quick Chaos Recipe is designed as a tool for Path of Exile to quick
 				limitations of one action per click, this tool will have to cycle equipment slots per button press in accordance to PoE's ToS 
 
 INSTRUCTIONS: Run this file in cmd prompt with "Py qcr.py"
+
+RESOURCES: https://www.reddit.com/r/pathofexiledev/comments/6mwll6/possible_to_get_public_stash_tabs_of_only_a/?st=j58t1ghq&sh=11a368c1
+
 '''
 
 import os
