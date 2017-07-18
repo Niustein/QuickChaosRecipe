@@ -6,3 +6,4 @@
 ACCOUNT = "Nyle" #Your account name
 LEAGUE = "Standard" #What league do you want the program to use?
 TABNAME = "QCR" #This should be the name of the tab you're using to grab items out of
+STASHTYPE = "QUAD" #Should be type "QUAD" or "NORMAL"
